@@ -4,7 +4,9 @@ public class CEEADemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hi welcome to CEEA");
+		int i=5;
+		System.out.println("Hi welcome to CEEA"+i);
+	
 	}
 
 }
